@@ -1,0 +1,15 @@
+Step 1: Choose any two digit number.
+           Example: 75
+ 
+Step 2:  Add together both digits and then subtract the total  from your original number.
+  Example:  7+5=12  	
+                  =>75-12=63
+
+Step 3: When you have the final number look it up on the chart and find the relevant symbol. Concentrate on the symbol press any key and it will show you the symbol you are thinking of.
+
+The chart contains the number from 1 to 99 along with different symbols.
+
+LOGIC:
+
+1.when you add the digits of a number and then subtract the total from your original number we always get multiples of 9.
+2.The symbols representing those numbers will be the same.Thus you will always get the correct answer.
